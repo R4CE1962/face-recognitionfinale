@@ -1,0 +1,26 @@
+body{
+    color: bisque;
+    background-color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 28px;
+    color: bisque;
+    background-color: black;
+    border: 9px ridge ;
+}
+
+.name_of_family_members{
+    color: antiquewhite;
+}
+
+#camera{
+    width: 350px;
+    height: 350px;
+    border: 5px dotted bisque;
+}
+
+#result_family_names{
+    color: bisque;
+}
